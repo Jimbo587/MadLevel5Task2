@@ -17,4 +17,9 @@
     <string name="day">Day</string>
     <string name="month">Month</string>
     <string name="year">Year</string>
+
+    <string name="delete">Delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_valid_reminder">Value is not valid</string>
 </resources>
